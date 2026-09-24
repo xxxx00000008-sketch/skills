@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jev Skill Router"
+  short_description: "Select the best Codex skill with Jev routing"
+  default_prompt: "Use $jev-skill-router to select the best Codex skill for this request."
